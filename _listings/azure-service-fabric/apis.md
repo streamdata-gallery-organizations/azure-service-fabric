@@ -10,8 +10,8 @@ image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/l
 x-kinRank: "10"
 x-alexaRank: ""
 tags: Azure Service Fabric
-created: "2018-05-21"
-modified: "2018-05-21"
+created: "2018-05-24"
+modified: "2018-05-24"
 url: https://raw.githubusercontent.com/streamdata-gallery-organizations/azure-service-fabric/master/_listings/azure-service-fabric/apis.md
 specificationVersion: "0.14"
 apis:
@@ -24,7 +24,7 @@ apis:
   tags: Clusters
   properties:
   - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-organizations/azure-service-fabric/master/_listings/azure-service-fabric/subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoftservicefabricclustersclustername-patch-openapi.md
+    url: https://raw.githubusercontent.com/streamdata-gallery-organizations/azure-service-fabric/master/_listings/azure-service-fabric/subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoft-servicefabricclustersclustername-patch-openapi.md
 - name: Azure Service Fabric API Clusters Get
   x-api-slug: azure-service-fabric-api
   description: Get cluster resource
@@ -34,9 +34,9 @@ apis:
   tags: Clusters
   properties:
   - type: x-postman-collection
-    url: https://raw.githubusercontent.com/streamdata-gallery-organizations/azure-service-fabric/master/_listings/azure-service-fabric/subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoftservicefabricclustersclustername-get-postman.md
+    url: https://raw.githubusercontent.com/streamdata-gallery-organizations/azure-service-fabric/master/_listings/azure-service-fabric/subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoft-servicefabricclustersclustername-get-postman.md
   - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-organizations/azure-service-fabric/master/_listings/azure-service-fabric/subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoftservicefabricclustersclustername-get-openapi.md
+    url: https://raw.githubusercontent.com/streamdata-gallery-organizations/azure-service-fabric/master/_listings/azure-service-fabric/subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoft-servicefabricclustersclustername-get-openapi.md
 - name: Azure Service Fabric API Clusters Create
   x-api-slug: azure-service-fabric-api
   description: Create cluster resource
@@ -46,7 +46,7 @@ apis:
   tags: Clusters
   properties:
   - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-organizations/azure-service-fabric/master/_listings/azure-service-fabric/subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoftservicefabricclustersclustername-put-openapi.md
+    url: https://raw.githubusercontent.com/streamdata-gallery-organizations/azure-service-fabric/master/_listings/azure-service-fabric/subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoft-servicefabricclustersclustername-put-openapi.md
 - name: Azure Service Fabric API Clusters Delete
   x-api-slug: azure-service-fabric-api
   description: Delete cluster resource
@@ -56,9 +56,9 @@ apis:
   tags: Clusters
   properties:
   - type: x-postman-collection
-    url: https://raw.githubusercontent.com/streamdata-gallery-organizations/azure-service-fabric/master/_listings/azure-service-fabric/subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoftservicefabricclustersclustername-delete-postman.md
+    url: https://raw.githubusercontent.com/streamdata-gallery-organizations/azure-service-fabric/master/_listings/azure-service-fabric/subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoft-servicefabricclustersclustername-delete-postman.md
   - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-organizations/azure-service-fabric/master/_listings/azure-service-fabric/subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoftservicefabricclustersclustername-delete-openapi.md
+    url: https://raw.githubusercontent.com/streamdata-gallery-organizations/azure-service-fabric/master/_listings/azure-service-fabric/subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoft-servicefabricclustersclustername-delete-openapi.md
 - name: Azure Service Fabric API Clusters List By Resource Group
   x-api-slug: azure-service-fabric-api
   description: List cluster resource by resource group
@@ -68,9 +68,9 @@ apis:
   tags: Clusters Resource Group
   properties:
   - type: x-postman-collection
-    url: https://raw.githubusercontent.com/streamdata-gallery-organizations/azure-service-fabric/master/_listings/azure-service-fabric/subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoftservicefabricclusters-get-postman.md
+    url: https://raw.githubusercontent.com/streamdata-gallery-organizations/azure-service-fabric/master/_listings/azure-service-fabric/subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoft-servicefabricclusters-get-postman.md
   - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-organizations/azure-service-fabric/master/_listings/azure-service-fabric/subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoftservicefabricclusters-get-openapi.md
+    url: https://raw.githubusercontent.com/streamdata-gallery-organizations/azure-service-fabric/master/_listings/azure-service-fabric/subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoft-servicefabricclusters-get-openapi.md
 - name: Azure Service Fabric API Clusters List
   x-api-slug: azure-service-fabric-api
   description: List cluster resource
@@ -80,9 +80,9 @@ apis:
   tags: Clusters
   properties:
   - type: x-postman-collection
-    url: https://raw.githubusercontent.com/streamdata-gallery-organizations/azure-service-fabric/master/_listings/azure-service-fabric/subscriptionssubscriptionidprovidersmicrosoftservicefabricclusters-get-postman.md
+    url: https://raw.githubusercontent.com/streamdata-gallery-organizations/azure-service-fabric/master/_listings/azure-service-fabric/subscriptionssubscriptionidprovidersmicrosoft-servicefabricclusters-get-postman.md
   - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-organizations/azure-service-fabric/master/_listings/azure-service-fabric/subscriptionssubscriptionidprovidersmicrosoftservicefabricclusters-get-openapi.md
+    url: https://raw.githubusercontent.com/streamdata-gallery-organizations/azure-service-fabric/master/_listings/azure-service-fabric/subscriptionssubscriptionidprovidersmicrosoft-servicefabricclusters-get-openapi.md
 - name: Azure Service Fabric API Cluster Versions List
   x-api-slug: azure-service-fabric-api
   description: List cluster code versions by location
@@ -92,9 +92,9 @@ apis:
   tags: Cluster Versions
   properties:
   - type: x-postman-collection
-    url: https://raw.githubusercontent.com/streamdata-gallery-organizations/azure-service-fabric/master/_listings/azure-service-fabric/subscriptionssubscriptionidprovidersmicrosoftservicefabriclocationslocationenvironmentsenvironmentclusterversions-get-postman.md
+    url: https://raw.githubusercontent.com/streamdata-gallery-organizations/azure-service-fabric/master/_listings/azure-service-fabric/subscriptionssubscriptionidprovidersmicrosoft-servicefabriclocationslocationenvironmentsenvironmentclusterversions-get-postman.md
   - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-organizations/azure-service-fabric/master/_listings/azure-service-fabric/subscriptionssubscriptionidprovidersmicrosoftservicefabriclocationslocationenvironmentsenvironmentclusterversions-get-openapi.md
+    url: https://raw.githubusercontent.com/streamdata-gallery-organizations/azure-service-fabric/master/_listings/azure-service-fabric/subscriptionssubscriptionidprovidersmicrosoft-servicefabriclocationslocationenvironmentsenvironmentclusterversions-get-openapi.md
 - name: Azure Service Fabric API Operations List
   x-api-slug: azure-service-fabric-api
   description: Lists all of the available ServiceFabric REST API operations.
@@ -104,9 +104,9 @@ apis:
   tags: Operations
   properties:
   - type: x-postman-collection
-    url: https://raw.githubusercontent.com/streamdata-gallery-organizations/azure-service-fabric/master/_listings/azure-service-fabric/providersmicrosoftservicefabricoperations-get-postman.md
+    url: https://raw.githubusercontent.com/streamdata-gallery-organizations/azure-service-fabric/master/_listings/azure-service-fabric/providersmicrosoft-servicefabricoperations-get-postman.md
   - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-organizations/azure-service-fabric/master/_listings/azure-service-fabric/providersmicrosoftservicefabricoperations-get-openapi.md
+    url: https://raw.githubusercontent.com/streamdata-gallery-organizations/azure-service-fabric/master/_listings/azure-service-fabric/providersmicrosoft-servicefabricoperations-get-openapi.md
 - name: Azure Service Fabric API
   x-api-slug: azure-service-fabric-api
   description: Service Fabric is a microservices platform used to build scalable,
