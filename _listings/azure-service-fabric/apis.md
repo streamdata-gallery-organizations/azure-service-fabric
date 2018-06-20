@@ -8,10 +8,10 @@ description: Service Fabric is a microservices platform used to build scalable, 
   on implementing mission-critical, demanding workloads.
 image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/service-fabric-02.png
 x-kinRank: "10"
-x-alexaRank: ""
+x-alexaRank: "0"
 tags: Azure Service Fabric
-created: "2018-05-24"
-modified: "2018-05-24"
+created: "2018-06-20"
+modified: "2018-06-20"
 url: https://raw.githubusercontent.com/streamdata-gallery-organizations/azure-service-fabric/master/_listings/azure-service-fabric/apis.md
 specificationVersion: "0.14"
 apis:
